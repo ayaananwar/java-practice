@@ -1,4 +1,4 @@
-package Basic;
+
 public class BoolOprt{
 
     public static void main(String arg[]){

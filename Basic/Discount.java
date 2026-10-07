@@ -1,3 +1,4 @@
+package Basic;
 public class Discount {
     
     public static void main(String arg[]){

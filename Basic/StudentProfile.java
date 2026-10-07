@@ -1,3 +1,4 @@
+package Basic;
 public class StudentProfile {
     
     public static void main(String arg[]){

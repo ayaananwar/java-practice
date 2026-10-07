@@ -1,4 +1,3 @@
-package Basic;
 public class ElectricityBill {
     
     public static void main(String arg[]){

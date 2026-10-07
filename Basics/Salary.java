@@ -1,4 +1,3 @@
-package Basic;
 public class Salary {
     
     public static void main(String arg[]){

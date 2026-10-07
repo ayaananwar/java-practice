@@ -19,6 +19,6 @@ public class Salary {
     //Yearly income including bonus 
     double incomeWithBonus = mothlyIncome * 12;
     System.out.println("Yearly income including bonus: " + incomeWithBonus);
-
+    
     }
 }
